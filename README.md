@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # :star: Hello!
-<img style="margin: 0 auto" src="doseobujang.jpg">
+<img style="width:10; height:10; margin: 0 auto" src="doseobujang.jpg">
