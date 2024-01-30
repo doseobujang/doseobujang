@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🔯: Hello!
+# :star: Hello!
 <img style="margin: 0 auto" src="">
