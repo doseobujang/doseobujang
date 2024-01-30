@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # :star: Hello!
-<img style="margin: 0 auto" src="doseobujang.jpg"/>
+<img style="width:10px; margin: 0 auto" src="doseobujang.jpg"/>
 
 ### :computer: Develop Tech
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white&amp;"/>
