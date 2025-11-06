@@ -1,5 +1,4 @@
 # :star: Hello!
-<img style="width:10rem height=10rem margin: 0 auto" src="doseobujang.jpg"/>
 
 ## Public Repo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doseobujang&layout=compact&langs_count=6)](https://github.com/doseobujang)<br/>
