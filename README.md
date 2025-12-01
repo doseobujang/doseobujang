@@ -3,6 +3,9 @@
 ## Public Repo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doseobujang&layout=compact&langs_count=6)](https://github.com/doseobujang)<br/>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={doseobujang})](https://solved.ac/{doseobujang})
+
 ### :computer: Develop Tech
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
