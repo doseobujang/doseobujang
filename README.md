@@ -1,7 +1,7 @@
 # :star: Hello!
 
 ## Public Repo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doseobujang&layout=compact&langs_count=6)](https://github.com/doseobujang)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?doseobujang=anuraghazra&stats_format=2)<br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doseobujang)](https://solved.ac/doseobujang)
